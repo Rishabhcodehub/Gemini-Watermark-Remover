@@ -1,0 +1,12 @@
+# OS Files
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+
+# Logs & Temporary Files
+*.log
+*.tmp
+
+# Processed Video outputs
+*_cleaned.*
+output_*.*
